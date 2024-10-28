@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/react-carserv/static/js/main.d30f6d20.js",
+    "static/js/453.64512fd7.chunk.js": "/react-carserv/static/js/453.64512fd7.chunk.js",
+    "static/media/carousel-bg-2.jpg": "/react-carserv/static/media/carousel-bg-2.09fb6ad79e953797cf19.jpg",
+    "static/media/carousel-bg-1.jpg": "/react-carserv/static/media/carousel-bg-1.312615edf2935273dd37.jpg",
+    "static/media/carousel-1.png": "/react-carserv/static/media/carousel-1.ddee30d0400928be4914.png",
+    "static/media/carousel-2.png": "/react-carserv/static/media/carousel-2.f7eeb3027339bc55dedb.png",
+    "static/media/service-1.jpg": "/react-carserv/static/media/service-1.497bb03964cfed972752.jpg",
+    "static/media/about.jpg": "/react-carserv/static/media/about.141c369fcb6458f121e2.jpg",
+    "static/media/service-3.jpg": "/react-carserv/static/media/service-3.24d78a6decc30d1464a3.jpg",
+    "static/media/service-2.jpg": "/react-carserv/static/media/service-2.09437fe8f9e38f23e7ec.jpg",
+    "static/media/service-4.jpg": "/react-carserv/static/media/service-4.428a3f5d06e71561ef78.jpg",
+    "index.html": "/react-carserv/index.html",
+    "main.d30f6d20.js.map": "/react-carserv/static/js/main.d30f6d20.js.map",
+    "453.64512fd7.chunk.js.map": "/react-carserv/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d30f6d20.js"
+  ]
+}
